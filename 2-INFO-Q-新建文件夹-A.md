@@ -69,17 +69,25 @@ A: **AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS O
 
 9. When optimizing an algorithm, developers often face a trade-off between computational efficiency and accuracy. If an optimization significantly reduces processing time but introduces a small margin of error, how should developers determine whether the trade-off is acceptable? Should the decision depend on the application's purpose, the consequences of incorrect results, or measurable performance improvements?
 
+A:Accept the trade-off only if the speed gain matters and errors are safe for the application.
+
 ---
 
-10. Why is adopting a microservices architecture from day one often considered a costly mistake for new software products compared to starting with a monolith? Explain the hidden costs of distributed systems and how Conway's Law influences architectural decisions.
+10.  Why is adopting a microservices architecture from day one often considered a costly mistake for new software products compared to starting with a monolith? Explain the hidden costs of distributed systems and how Conway's Law influences architectural decisions.
+
+A:Microservices add operational and communication complexity. Start with a monolith; let needs and team structure guide when to split.
 
 ---
 
 11. Why is an inverted testing pyramid considered an expensive mistake in software quality assurance? How does combining the Testing Pyramid strategy with Perfective Maintenance help maintain software quality and support long-term system evolution?
 
+A:Too many end-to-end tests are slow and fragile. Favor unit tests, and use maintenance to keep tests and code healthy.
+
 ---
 
 12. Why does the open-source ecosystem face a sustainability paradox despite powering much of the modern internet? Explain this vulnerability using the Heartbleed incident in OpenSSL, and discuss how virtualization and containers address infrastructure scalability and environment consistency.
+
+A:Open source often relies on too few maintainers despite widespread use. Heartbleed exposed this risk; containers and virtualization improve scalability and consistency, not project funding.
 
 ---
 

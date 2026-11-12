@@ -73,17 +73,17 @@ to make the decision.
 
 ---
 
-13. Why does AI-assisted coding shift developers' roles from programmers to technical directors rather than eliminate the need for software engineering fundamentals? How can overreliance on AI-generated code lead to skill atrophy and dangerous, plausible-but-incorrect software?
+13. Why does AI-assisted coding shift developers' roles from programmers to technical directors rather than eliminate the need for software engineering fundamentals? How can overreliance on AI-generated code lead to skill atrophy and dangerous, plausible-but-incorrect software?  
 A:AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI
 ---
 
-14. Can we mathematically guarantee that complex software is completely free of bugs, considering that even the specifications used to verify it may be incomplete or incorrect?
+14. Can we mathematically guarantee that complex software is completely free of bugs, considering that even the specifications used to verify it may be incomplete or incorrect?  
 A:Correctness is always relative to a model,specification,and assumptions.Proving the absence of known classes of defects is not the same as proving the absence of all possible defects.
 ---
 
-15. If an autonomous AI can modify its own architecture, algorithms, and objectives to improve its performance, how can we guarantee that it will preserve its original human-defined goals?
+15. If an autonomous AI can modify its own architecture, algorithms, and objectives to improve its performance, how can we guarantee that it will preserve its original human-defined goals?  
 A:AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI
 ---
 
-16. Can an AI system be considered genuinely intelligent if it consistently produces correct solutions without having an interpretable understanding of the processes behind them? Where should we draw the line between intelligence and computation?
+16. Can an AI system be considered genuinely intelligent if it consistently produces correct solutions without having an interpretable understanding of the processes behind them? Where should we draw the line between intelligence and computation?  
 A:AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI

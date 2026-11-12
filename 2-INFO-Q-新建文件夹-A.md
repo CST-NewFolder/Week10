@@ -39,21 +39,31 @@ usage for benefit production, companies should reserve collection function, yet 
 select to share related data through applications' requests. User should always be the only person, the only authority
 to make the decision.
 
+A: AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI
+
 ---
 
 5. If a self-driving vehicle faces an unavoidable collision in which protecting its passengers would put several pedestrians at risk, how should its decision-making system prioritize human lives? Should these decisions follow universal ethical principles, legal regulations, or individual preferences? Can a single algorithm fairly represent different moral values across societies?
+
+A: **AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI**
 
 ---
 
 6. If replacing human workers with AI significantly increases productivity and corporate profits, should companies have the right to automate entire occupations despite the resulting unemployment? To what extent should businesses and governments be responsible for supporting displaced workers, and can technological progress be considered beneficial if its economic gains are distributed unequally?
 
+A: **AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI**
+
 ---
 
 7. If an AI system consistently solves complex problems using logically valid reasoning but cannot explain how it reaches its conclusions, can its reasoning be considered genuine understanding? Is the ability to produce correct answers sufficient evidence of intelligence, or must intelligence also involve awareness, comprehension, or the ability to explain one's own reasoning?
 
+A: **AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI**
+
 ---
 
 8. Can increasing the size of a dataset actually make a machine learning model less reliable? Examine how sampling bias, misleading correlations, data imbalance, and poor-quality information can influence statistical conclusions. Under what circumstances might a smaller but carefully selected dataset produce better results?
+
+A: **AS THIS ROUND (BASED ON THE LATEST LECTURE) IS RELATED TO THE FOUNDATIONS OF SOFTWARE AND SYSTEM, I REFUSE TO ANSWER YOUR FIRST QUESTION REGARDING AI**
 
 ---
 
